@@ -6,7 +6,7 @@
 | 폴더 | 분야 | 한 줄 요약 |
 |---|---|---|
 | [`pension-advisor-agent`](./pension-advisor-agent) | LLM Agent · RAG | 지정 LLM(HyperCLOVA X) 기반 연금 상담 에이전트 — 근거 없는 수치를 스스로 강등하는 검증 구조 |
-| [`pasteurizer-temp-forecast`](./pasteurizer-temp-forecast) | 머신러닝 · 시계열 | 살균 공정 30분 후 온도 예측(XGBoost) — 경진대회 1학년 부문 대상 |
+| [`pasteurizer-temp-forecast`](./pasteurizer-temp-forecast) | 머신러닝 · 시계열 | 살균 공정 30분 후 온도 예측(XGBoost) — 경진대회 1학년 부문 금상(1위) |
 | [`cardnews-engine`](./cardnews-engine) | 문서 처리 파이프라인 | 수식이 포함된 PDF를 카드뉴스로 자동 변환하는 엔진 |
 
 ---
@@ -24,7 +24,7 @@
 
 ## 2. pasteurizer-temp-forecast — 살균 공정 온도 예측
 
-**제9회 인공지능 및 데이터 분석 연구 경진대회 1학년 부문 대상**
+**제9회 인공지능 및 데이터 분석 연구 경진대회 1학년 부문 금상(1위)**
 
 - **데이터** — KAMP 살균기 공정 데이터
 - **모델** — XGBoost, Lag·이동통계·시간 변수 19개
